@@ -1,7 +1,7 @@
 
-# Encoded By : MUMIT ISLAM HIMU
+# Encoded By : MH_JIHAD
 # Encryption : Py3 Marshal
-# Github: https://github.com/MUMIT-404-CYBER
+# Github: https://github.com/Mh-Jihad404
 #----------------------------------------------
 
 import marshal
